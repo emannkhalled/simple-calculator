@@ -1,3 +1,8 @@
+
+
+Your site is live at https://emannkhalled.github.io/simple-calculator/
+
+
 #  Simple Calculator
 
 A modern, responsive calculator built with HTML, CSS, and JavaScript.
